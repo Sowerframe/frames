@@ -25,7 +25,7 @@
 		"sower/routes": "~1.0.0",
 		"sower/savant": "~1.0.0",
 		"sower/service": "~1.0.0",
-		"sower/sowers": "~1.0.0",
+		"sower/sowers": "~1.0.0"
     },
     "require-dev": {
         "mikey179/vfsstream": "^1.6",
@@ -36,10 +36,5 @@
         "psr-4": {
             "sower\\": "src/sower/"
         }
-    },
-    "minimum-stability": "dev",
-    "prefer-stable": true,
-    "config": {
-        "sort-packages": true
-    }  
+    } 
 }
